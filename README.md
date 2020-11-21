@@ -1,5 +1,6 @@
 dokuwiki2git
 ============
+This version is compatible with Dokuwiki Hogfather.
 
 dokuwiki2git converts dokuwiki data directory into a git repository containing
 the wiki pages, with proper history. Thus, migration to git-backed wiki engines
